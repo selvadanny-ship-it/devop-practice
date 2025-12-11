@@ -1,2 +1,3 @@
 My second Test
 Learning branching in Git
+update from feature2 branch
